@@ -7,9 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-### Fixes
+### Added
 
-- Fixes changelog link urls
+- Adds link to circuit diagram in README
 
 ## [0.0.1] - 2022-02-21
 
@@ -19,5 +19,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Creates a README file
 - Creates a CHANGELOG file
 
-[Unreleased]: https://github.com/pernicat/SkateLights/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/pernicat/SkateLights/compare/v0.0.1...HEAD
 [0.0.1]: https://github.com/pernicat/SkateLights/releases/tag/v0.0.1
