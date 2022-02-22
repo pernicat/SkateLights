@@ -10,6 +10,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Adds link to circuit diagram in README
+- Adds `.editorconfig` file
+- Adds list of TODO items in the README
 
 ## [0.0.1] - 2022-02-21
 

@@ -13,3 +13,9 @@ Circuit Diagram
 ---------------
 
 - [Circuit Diagram](https://www.circuit-diagram.org/circuits/d06add85daa94868a6c8165b02f2136b)
+
+TODO
+----
+
+[ ] [Bare-Arduino-Project](https://github.com/ladislas/Bare-Arduino-Project)
+[ ] [Arduino-Makefile](https://github.com/leka/Arduino-Makefile)
